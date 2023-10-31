@@ -1,17 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXU2bml5dGJhOWw1cjFrN2l4bHkwcmE5YWpudDU0Mjk4bHF6NmliNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ryan-lin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=the-ryan-lin&style=flat-square&color=blue" alt=""/>
-</div> 
-
-
-
-# Ryan Lin 👋
+# 👨🏻‍💻 Ryan Lin 
 
 **`Data Analyst`**
 
