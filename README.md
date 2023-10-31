@@ -2,11 +2,12 @@
 
 **`Data Analyst`**
 
-I am a 
+I am an enthusiastic data analyst with an insatiable curiosity for unravelling real-world challenges through the power of data. I thrive on tackling complex and demanding tasks, as I firmly believe that's where the most valuable insights lie. 
 
-🔭 I’m currently working on ...
+🔭 I am currently collaborating with the Bank of England (BoE) to develop a machine-learning model that assesses the impact of BoE Speeches on financial markets by examining sentiment's correlation with economic indicators. This project aims to enhance the BoE's understanding of their influence on the economy and improve their ability to foster economic stability.  
 
-📫 How to reach me: ...
+
+📫 How to reach me: theryanlin@gmail.com
 
 ---
 
@@ -32,7 +33,8 @@ I am a
 
 <details> 
  <summary><h3>🚶🏻‍♂️ My Data Journey</h3></summary>
-   I started my Data Analytics Journey as a 
+   <p>My journey into the world of data analytics began during my academic years, where I consistently applied data analytical techniques to accomplish projects with remarkable success, progressively refining my skill set. Furthermore, in a previous professional role, I delved into the organisation's internal sales and marketing data, unearthing invaluable insights that translated into a 25% increase in sales within a single year. It was during this period that I truly grasped the transformative potential and significance of data-driven insights, witnessing firsthand their positive impact on a business, a realisation too powerful to ignore.</p>
+<p>Most recently, I undertook an immersive  Data Analytics career accelerator program with the prestigious London School of Economics and Political Science, solidifying my expertise in the field. As I embark on this exhilarating journey, I eagerly anticipate exploring new horizons, expanding my skill set, and making substantial contributions to innovative projects within the realm of data analytics.</p>
 
 </details>
 
