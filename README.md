@@ -42,5 +42,8 @@ I am an enthusiastic data analyst with an insatiable curiosity for unravelling r
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-ryan-lin&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## Portfolio Highlights
+
+
 
 
