@@ -44,6 +44,81 @@ I am an enthusiastic data analyst with an insatiable curiosity for unravelling r
 
 ## Portfolio Highlights
 
+#### [Analysis of NHS Appointment Data](https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/tree/main)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/tree/main">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/blob/main/Figures/Slide1.jpeg" alt="NHS Appointment Data" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/tree/main">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/blob/main/Figures/Slide16.jpeg" alt="NHS Appointment Data" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/tree/main">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/blob/main/Figures/Slide20.jpeg" alt="NHS Appointment Data" width="360" height="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+#### [Analysis of Sales and Marketing Data of an Online Games Manufacturer](https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment/blob/main/Figures/Intro_slide.png" alt="Sales and Marketing Data" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment/blob/main/Figures/K-mean.png" alt="Sales and Marketing Data" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+        <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA301_Assignment/blob/main/Figures/Outlier_corr.png" alt="Sales and Marketing Data" width="360" height="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+#### [How does the Sentiment of Bank of England Speeches Correlate with Economic Indicators?](https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis">
+        <img src="https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis/blob/main/Figures/Intro_slide_boe.png" alt="Bank of England Speeches Sentiment" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis">
+        <img src="https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis/blob/main/Figures/Sentiment_wordlist.png" alt="Bank of England Speeches Sentiment" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis">
+        <img src="https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis/blob/main/Figures/sentiment_FTSE.png" alt="Bank of England Speeches Sentiment" width="360" height="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
