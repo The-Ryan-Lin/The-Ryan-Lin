@@ -1,3 +1,6 @@
+![Banner](https://github.com/The-Ryan-Lin/The-Ryan-Lin/blob/main/LinkedIn%20Banner%201.png)
+
+
 # 👨🏻‍💻 Ryan Lin 
 
 **`Data Analyst`**
