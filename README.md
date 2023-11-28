@@ -39,6 +39,8 @@ Feel free to reach out and join me in the exciting venture of transforming data 
    <p>My journey into the world of data analytics began during my academic years, where I consistently applied data analytical techniques to accomplish projects with remarkable success, progressively refining my skill set. My passion for data was further ignited in a previous professional role, where I delved into the organisation's internal sales and marketing data, unearthing invaluable insights that translated into a 25% increase in sales within a single year. It was during this period that I truly grasped the transformative potential and significance of data-driven insights, witnessing firsthand their positive impact on a business, a realisation too powerful to ignore.</p>
 <p>Most recently, I have graduated from an intensive Data Analytics career accelerator program at the renowned London School of Economics and Political Science (LSE). This program, tailored to business applications and advanced analytics for organizational impact, has significantly sharpened my expertise in Python, SQL, and R, as well as visualization tools like Tableau and Power BI. Armed with these advanced skills and an unwavering enthusiasm for data, I am now more prepared than ever to delve into new challenges, broaden my technical and analytical capabilities, and make a meaningful contribution to cutting-edge data analytics projects.</p>
 
+If you would like to read more about the LSE Data Analytics Career Accelerator you can do so [here](https://github.com/The-Ryan-Lin/lse_data_analytics_career_accelerator/tree/main)
+
 ## Portfolio Highlights
 
 #### [Analysis of NHS Appointment Data](https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/tree/main)
