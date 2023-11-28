@@ -86,6 +86,27 @@ If you would like to read more about the LSE Data Analytics Career Accelerator y
   </tr>
 </table>
 
+#### [Analysis of a Supermarkets Customer Data](https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/tree/main)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/tree/main">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/blob/main/Figures/intro_2Market.png" alt="Supermarket Intro" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/tree/main">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/blob/main/Figures/dashboard1.png" alt="Dashboard1" width="360" height="200"/>
+      </a>
+    </td>
+    <td>
+        <a href="https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/tree/main">
+        <img src="https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/blob/main/Figures/dashboard2.png" alt="Dashboard2" width="360" height="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 #### [How does the Sentiment of Bank of England Speeches Correlate with Economic Indicators?](https://github.com/The-Ryan-Lin/BOE_Sentiment_Analysis)
 <table>
