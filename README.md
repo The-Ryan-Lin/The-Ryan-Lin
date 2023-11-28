@@ -32,16 +32,9 @@ Feel free to reach out and join me in the exciting venture of transforming data 
 
 #
 
-<details> 
- <summary><h3>🚶🏻‍♂️ My Data Journey</h3></summary>
-   <p>My journey into the world of data analytics began during my academic years, where I consistently applied data analytical techniques to accomplish projects with remarkable success, progressively refining my skill set. Then, in a previous professional role, I delved into the organisation's internal sales and marketing data, unearthing invaluable insights that translated into a 25% increase in sales within a single year. It was during this period that I truly grasped the transformative potential and significance of data-driven insights, witnessing firsthand their positive impact on a business, a realisation too powerful to ignore.</p>
-<p>Most recently, I undertook an immersive  Data Analytics career accelerator program with the prestigious London School of Economics and Political Science, with a focus on data analytics for business and advanced analytics for organisational impact. As I embark on this exhilarating journey, I eagerly anticipate exploring new horizons, expanding my skill set, and making substantial contributions to innovative projects within the realm of data analytics.</p>
-
-</details>
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-ryan-lin&theme=dark&background=000000)](https://git.io/streak-stats)
+<h3>🚶🏻‍♂️ My Data Journey</h3>
+   <p>My journey into the world of data analytics began during my academic years, where I consistently applied data analytical techniques to accomplish projects with remarkable success, progressively refining my skill set. My passion for data was further ignited in a previous professional role, where I delved into the organisation's internal sales and marketing data, unearthing invaluable insights that translated into a 25% increase in sales within a single year. It was during this period that I truly grasped the transformative potential and significance of data-driven insights, witnessing firsthand their positive impact on a business, a realisation too powerful to ignore.</p>
+<p>Most recently, I have graduated from an intensive Data Analytics career accelerator program at the renowned London School of Economics and Political Science (LSE). This program, tailored to business applications and advanced analytics for organizational impact, has significantly sharpened my expertise in Python, SQL, and R, as well as visualization tools like Tableau and Power BI. Armed with these advanced skills and an unwavering enthusiasm for data, I am now more prepared than ever to delve into new challenges, broaden my technical and analytical capabilities, and make a meaningful contribution to cutting-edge data analytics projects.</p>
 
 ## Portfolio Highlights
 
@@ -109,6 +102,10 @@ Feel free to reach out and join me in the exciting venture of transforming data 
     </td>
   </tr>
 </table>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-ryan-lin&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
