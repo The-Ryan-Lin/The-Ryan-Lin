@@ -7,7 +7,7 @@
 
 Hello! 👋 As a data analyst, my passion lies in delving deep into data to address real-world challenges. My expertise centres around unravelling complex issues, with a keen focus on extracting valuable insights to enhance business processes and workflows. I am committed to transforming intricate data into compelling and actionable narratives.
 
-🔭 I am currently collaborating with the Bank of England (BoE) to develop a machine-learning model that assesses the impact of BoE Speeches on financial markets by examining sentiment's correlation with economic indicators. This project aims to enhance the BoE's understanding of their influence on the economy and improve their ability to foster economic stability.  
+🔭 Most recently, I have just completed a project in collaborating with the Bank of England (BoE) to develop a machine-learning model that assesses the impact of BoE Speeches on financial markets by examining sentiment's correlation with economic indicators. This project aims to enhance the BoE's understanding of their influence on the economy and improve their ability to foster economic stability.  
 
 Feel free to reach out and join me in the exciting venture of transforming data into strategic insights that drive meaningful change.
 
