@@ -41,12 +41,6 @@ Feel free to reach out and join me in my journey of transforming data into strat
 
 If you would like to read more about the LSE Data Analytics Career Accelerator you can do so [here](https://github.com/The-Ryan-Lin/lse_data_analytics_career_accelerator/tree/main)
 
-## Analytical Experience
-
-* [Web Scraping](https://github.com/The-Ryan-Lin/Web_Scraping)
-* [A/B Testing](https://github.com/The-Ryan-Lin/AB_Testing)
-* [My SQL Scripts](https://github.com/The-Ryan-Lin/My_SQL_Scripts)
-
 ## Portfolio Highlights
 
 #### [Analysis of NHS Appointment Data](https://github.com/The-Ryan-Lin/Ryan_Lin_DA201_Assignment/tree/main)
