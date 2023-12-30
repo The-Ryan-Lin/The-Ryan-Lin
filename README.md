@@ -114,7 +114,7 @@ If you would like to read more about the LSE Data Analytics Career Accelerator y
   </tr>
 </table>
 
-#### [Analysis of a Supermarkets Customer Data](https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/tree/main)
+#### [Analysis of a Supermarkets Customer Data (Tableau Dashboard Design](https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/tree/main)
 <table>
   <tr>
     <td>
