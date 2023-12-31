@@ -46,6 +46,7 @@ If you would like to read more about the LSE Data Analytics Career Accelerator y
 - [Web Scraping](https://github.com/The-Ryan-Lin/Web_Scraping)
 - [A/B Testing](https://github.com/The-Ryan-Lin/AB_Testing)
 - [My SQL Scripts](https://github.com/The-Ryan-Lin/My_SQL_Scripts)
+- [APIs](https://github.com/The-Ryan-Lin/API)
 
 ## Portfolio Highlights
 
