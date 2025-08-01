@@ -7,7 +7,7 @@
 
 Hello! 👋 As a Data Analyst & Product Lead, my passion lies in delving deep into data to address real-world challenges. My expertise centres around unravelling complex issues, with a keen focus on extracting valuable insights to enhance business processes and workflows. I am committed to transforming intricate data into compelling and actionable narratives.
 
-Now I build reliable data foundations and GenAI automations that make products—​and life—​run smoother.
+Now I build reliable data foundations and GenAI automations that make products, and life ​run smoother.
 
 * **Now:** Data Analyst & Product Lead at **HTA-Hive**, shipping **Hive Access** (30 pilot users, >99.9 % uptime) and architecting Python + LLM pipelines that cut manual analyst effort by ~60 %. Client work is NDA-protected. 
 * **Next:** Open-sourcing personal automations—first up, an **n8n utility-bill agent** that scrapes PDF invoices, splits costs in Google Sheets, and notifies flat-mates automatically.  
@@ -35,6 +35,20 @@ Please feel free to contact me and join me in my journey of transforming data in
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker"/>
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" />
+
 <br />
 
 ### 🚶🏻‍♂My Data Journey
