@@ -37,14 +37,15 @@ Please feel free to contact me and join me in my journey of transforming data in
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br />
 
-#
+### 🚶🏻‍♂My Data Journey
 
-<h3>🚶🏻‍♂️ My Data Journey</h3>
-   <p>My journey into the world of data began during my academic years, where I naturally gravitated toward using data to support every research project, business case study, or strategy proposal I worked on. The more I applied data, the more I saw how it could bring clarity to complex problems, especially when it came to making decisions that mattered. That interest took off in a previous role, where I began digging into the organisation's internal sales and marketing data and uncovered insights that helped lead to a 25% increase in sales. That was the first time I saw the real-world impact of data-driven thinking, and it’s what set me on the path I’m on now.</p>
-<p>To deepen my skills, I enrolled in the **LSE Data Analytics Career Accelerator**—an intensive, hands-on programme focused on using data for organisational impact. I graduated top of my cohort, sharpening my skills in Python, SQL, R, and data visualisation tools like Tableau and Power BI. The portfolio highlights from this programme are still available below if you're interested in seeing some of my earlier work.</p>
-<p>Since then, I’ve moved into a hybrid Data Analyst and Product Lead role at **HTA-Hive**, where I’ve been focused on building data pipelines and LLM-driven automations that power our core platform, Hive Access. My work ranges from developing human-in-the-loop data validation pipelines to designing prompt libraries for extracting structured data from complex PDFs, all while making sure our exec team has the real-time dashboards they need to prioritise effectively.</p>
-<p>Outside of work, I continue to experiment with AI and automation—whether it’s learning new tools like n8n, Make.com, or Vertex AI, or building things to make life easier. One project I’m particularly excited to publish soon is a fully automated utility bill calculator I built using n8n and Google Sheets, which has already saved me hours of time (and headaches) when it comes to splitting bills in a shared flat.
-</p>
+My journey into the world of data began during my academic years, where I naturally gravitated toward using data to support every research project, business case study, or strategy proposal I worked on. The more I applied data, the more I saw how it could bring clarity to complex problems, especially when it came to making decisions that mattered. That interest took off in a previous role, where I began digging into the organisation's internal sales and marketing data and uncovered insights that helped lead to a **25% increase in sales**. That was the first time I saw the real-world impact of data-driven thinking, and it’s what set me on the path I’m on now.
+
+To deepen my skills, I enrolled in the **LSE Data Analytics Career Accelerator**, an intensive, hands-on programme focused on using data for organisational impact. I graduated **top of my cohort**, sharpening my skills in **Python, SQL, R**, and data visualisation tools like **Tableau** and **Power BI**. The portfolio highlights from this programme are still available below if you're interested in seeing some of my earlier work.
+
+Since then, I’ve moved into a hybrid **Data Analyst and Product Lead** role at **HTA-Hive**, where I’ve been focused on building data pipelines and **LLM-driven automations** that power our core platform, **Hive Access**. My work ranges from developing human-in-the-loop data validation pipelines to designing prompt libraries for extracting structured data from complex PDFs, all while making sure our exec team has the real-time dashboards they need to prioritise effectively.
+
+Outside of work, I continue to experiment with AI and automation—whether it’s learning new tools like **n8n, Make.com**, or **Vertex AI**, or building things to make life easier. One project I’m particularly excited to publish soon is a fully automated utility bill calculator I built using **n8n** and **Google Sheets**, which has already saved me hours of time (and headaches) when it comes to splitting bills in a shared flat.
 
 If you would like to read more about the LSE Data Analytics Career Accelerator you can do so [here](https://github.com/The-Ryan-Lin/lse_data_analytics_career_accelerator/tree/main).
 
