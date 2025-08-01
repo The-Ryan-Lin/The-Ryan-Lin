@@ -1,15 +1,19 @@
 ![Banner](https://github.com/The-Ryan-Lin/The-Ryan-Lin/blob/main/LinkedIn%20Banner%201.png)
 
 
-# 👨🏻‍💻 Ryan Lin 
+# 👨🏻‍💻 Ryan Lin&nbsp;&nbsp;[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ryan-lin)
 
-**`Data Analyst`**
+**`Product-minded Data & AI Engineer`**
 
-Hello! 👋 As a data analyst, my passion lies in delving deep into data to address real-world challenges. My expertise centres around unravelling complex issues, with a keen focus on extracting valuable insights to enhance business processes and workflows. I am committed to transforming intricate data into compelling and actionable narratives.
+Hello! 👋 As a Data Analyst & Product Lead, my passion lies in delving deep into data to address real-world challenges. My expertise centres around unravelling complex issues, with a keen focus on extracting valuable insights to enhance business processes and workflows. I am committed to transforming intricate data into compelling and actionable narratives.
 
-🔭 Most recently, I have completed a project in collaborating with the Bank of England (BoE) to develop a machine-learning model that assesses the impact of BoE Speeches on financial markets by examining sentiment's correlation with economic indicators. This project aims to enhance the BoE's understanding of their influence on the economy and improve their ability to foster economic stability.  
+Now I build reliable data foundations and GenAI automations that make products—​and life—​run smoother.
 
-Feel free to reach out and join me in my journey of transforming data into strategic insights that drive meaningful change.
+* **Now:** Data Analyst & Product Lead at **HTA-Hive**, shipping **Hive Access** (30 pilot users, >99.9 % uptime) and architecting Python + LLM pipelines that cut manual analyst effort by ~60 %. Client work is NDA-protected. 
+* **Next:** Open-sourcing personal automations—first up, an **n8n utility-bill agent** that scrapes PDF invoices, splits costs in Google Sheets, and notifies flat-mates automatically.  
+* **Earlier:** Graduated top of cohort in the **LSE Data Analytics Career Accelerator**; see “Portfolio Highlights” below for public coursework. For the Final Project, I worked with the  Bank of England (BoE) to develop a machine-learning model that assesses the impact of BoE Speeches on financial markets by examining sentiment's correlation with economic indicators.
+
+Please feel free to contact me and join me in my journey of transforming data into strategic insights that drive meaningful change.
 
 📫 How to reach me: theryanlin@gmail.com
 
@@ -36,10 +40,15 @@ Feel free to reach out and join me in my journey of transforming data into strat
 #
 
 <h3>🚶🏻‍♂️ My Data Journey</h3>
-   <p>My journey into the world of data analytics began during my academic years, where I consistently applied data analytical techniques to accomplish projects with remarkable success, progressively refining my skill set. My passion for data was further ignited in a previous professional role, where I delved into the organisation's internal sales and marketing data, unearthing invaluable insights that translated into a 25% increase in sales within a single year. It was during this period that I truly grasped the transformative potential and significance of data-driven insights, witnessing firsthand their positive impact on a business, a realisation too powerful to ignore.</p>
-<p>Most recently, I have graduated top of my cohort from an intensive Data Analytics career accelerator program at the renowned London School of Economics and Political Science (LSE). This program, tailored to business applications and advanced analytics for organisational impact, has significantly sharpened my expertise in Python, SQL, and R, as well as visualisation tools like Tableau and Power BI. Armed with these advanced skills and an unwavering enthusiasm for data, I am now more prepared than ever to delve into new challenges, broaden my technical and analytical capabilities, and make a meaningful contribution to cutting-edge data analytics projects.</p>
+   <p>My journey into the world of data began during my academic years, where I naturally gravitated toward using data to support every research project, business case study, or strategy proposal I worked on. The more I applied data, the more I saw how it could bring clarity to complex problems, especially when it came to making decisions that mattered. That interest took off in a previous role, where I began digging into the organisation's internal sales and marketing data and uncovered insights that helped lead to a 25% increase in sales. That was the first time I saw the real-world impact of data-driven thinking, and it’s what set me on the path I’m on now.</p>
+<p>To deepen my skills, I enrolled in the **LSE Data Analytics Career Accelerator**—an intensive, hands-on programme focused on using data for organisational impact. I graduated top of my cohort, sharpening my skills in Python, SQL, R, and data visualisation tools like Tableau and Power BI. The portfolio highlights from this programme are still available below if you're interested in seeing some of my earlier work.</p>
+<p>Since then, I’ve moved into a hybrid Data Analyst and Product Lead role at **HTA-Hive**, where I’ve been focused on building data pipelines and LLM-driven automations that power our core platform, Hive Access. My work ranges from developing human-in-the-loop data validation pipelines to designing prompt libraries for extracting structured data from complex PDFs, all while making sure our exec team has the real-time dashboards they need to prioritise effectively.</p>
+<p>Outside of work, I continue to experiment with AI and automation—whether it’s learning new tools like n8n, Make.com, or Vertex AI, or building things to make life easier. One project I’m particularly excited to publish soon is a fully automated utility bill calculator I built using n8n and Google Sheets, which has already saved me hours of time (and headaches) when it comes to splitting bills in a shared flat.
+</p>
 
-If you would like to read more about the LSE Data Analytics Career Accelerator you can do so [here](https://github.com/The-Ryan-Lin/lse_data_analytics_career_accelerator/tree/main)
+If you would like to read more about the LSE Data Analytics Career Accelerator you can do so [here](https://github.com/The-Ryan-Lin/lse_data_analytics_career_accelerator/tree/main).
+
+Feel free to reach out if you’re interested in swapping ideas, and keep an eye on this page—there’s more to come.
 
 ## Analytical Experience
 
@@ -135,21 +144,3 @@ If you would like to read more about the LSE Data Analytics Career Accelerator y
     </td>
   </tr>
 </table>
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-ryan-lin&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
